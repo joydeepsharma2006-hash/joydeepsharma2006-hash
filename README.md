@@ -57,10 +57,10 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/joydeep-sharma-288017362/">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:joydeepsharma2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
