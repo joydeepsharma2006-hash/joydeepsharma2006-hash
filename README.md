@@ -46,13 +46,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joydeepsharma2006-hash&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect
 
