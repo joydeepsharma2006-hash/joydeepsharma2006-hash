@@ -6,7 +6,7 @@
 
 ---
 
-## 🌸 Premium Wave Banner
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=34&fontAlign=50&fontAlignY=38&color=0:00F7FF,50:5f9cff,100:8A2BE2&fontColor=ffffff&animation=fadeIn&desc=Think.%20Code.%20Repeat.&descAlign=50&descAlignY=55"/>
