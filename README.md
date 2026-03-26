@@ -4,9 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Crafting+Code+💻;C%2B%2B+%7C+Python+%7C+JavaScript;Building+Future+🚀;Always+Improving" />
 </p>
 
+---
+
+## 🌸 Premium Wave Banner
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=150&section=header&text=Welcome%20to%20My%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=34&fontAlign=50&fontAlignY=38&color=0:00F7FF,50:5f9cff,100:8A2BE2&fontColor=ffffff&animation=fadeIn&desc=Think.%20Code.%20Repeat.&descAlign=50&descAlignY=55"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joydeepsharma2006-hash&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
@@ -14,20 +20,22 @@
 
 ---
 
-## 🧊 About Me (Glass Style)
+## 🧊 About Me
 
-* 💻 Turning ideas into real-world projects
-* 🧠 Building strong logic using C++
-* ⚡ Exploring Python & JavaScript ecosystems
-* 🚀 Focused on growth, consistency & skills
-* 🎯 Vision: Become a high-level software developer
+<div align="center">
+
+🚀 Building real-world projects with clean & efficient code  
+💡 Strong in C++ logic, exploring Python & JavaScript  
+🎯 Focused on consistency, growth & becoming a top developer  
+
+</div>
 
 ---
 
 ## 🧰 Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,css,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -35,17 +43,16 @@
 ## 📊 Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joydeepsharma2006-hash&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joydeepsharma2006-hash&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&bg_color=00000000"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepsharma2006-hash&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=00F7FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepsharma2006-hash&theme=tokyonight&hide_border=true&background=00000000&ring=8A2BE2&fire=00F7FF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydeepsharma2006-hash&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydeepsharma2006-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF"/>
 </p>
 
 ---
-
 
 ## 🌐 Connect
 
@@ -63,3 +70,9 @@
 ## ⚡ Philosophy
 
 💡 *"Consistency beats talent. Code every day, improve every day."*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:00F7FF"/>
+</p>
